@@ -1,0 +1,15 @@
+#name-and-slogan #site-slogan {
+  font-family: 'Comic Sans MS',Cursive;
+  font-style: italic;
+  text-align: center;
+  background-color: #008f6b;
+  border-top-color: #f5dc78;
+  border-right-color: #f5dc78;
+  border-bottom-color: #f5dc78;
+  border-left-color: #f5dc78;
+  border-top-style: dashed;
+  border-right-style: dashed;
+  border-bottom-style: dashed;
+  border-left-style: dashed;
+}
+
